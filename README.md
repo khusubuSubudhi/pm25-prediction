@@ -1,20 +1,26 @@
-## Hi I'm Khusubu
+# PM2.5 Air Quality Prediction
 
- Electronics & Communication Engineering student  
- Working on air quality prediction projects  
+This repository contains Jupyter notebooks for predicting PM2.5 air
+pollution levels using machine learning techniques.
 
-###  Projects
-- **PM2.5 Air Quality Prediction**  
-  Machine learning–based pollution forecasting using Jupyter Notebook  
-  https://github.com/khusubuSubudhi/pm25-prediction
+## Available Notebooks
+- `pm25_1hour_prediction.ipynb` – Short-term (1 hour ahead) PM2.5 prediction
+- `pm25_24hour_prediction.ipynb` – 24 hour PM2.5 prediction
 
-###  Skills
+## Project Objective
+To analyze historical air quality data and forecast PM2.5 concentrations
+for short-term air quality monitoring and planning.
+
+## Tools & Technologies
 - Python
 - Jupyter Notebook
-- Pandas, NumPy
+- Pandas
+- NumPy
 - Scikit-learn
+- Matplotlib
 
-GitHub: https://github.com/khusubuSubudhi
-
-
-
+## Status
+- 1 hour prediction: Completed
+- 24 hour prediction: Completed
+- 1 week prediction: Planned
+- 2 week prediction: Planned
