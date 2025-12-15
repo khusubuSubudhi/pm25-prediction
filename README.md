@@ -19,8 +19,3 @@ for short-term air quality monitoring and planning.
 - Scikit-learn
 - Matplotlib
 
-## Status
-- 1 hour prediction: Completed
-- 24 hour prediction: Completed
-- 1 week prediction: Planned
-- 2 week prediction: Planned
