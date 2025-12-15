@@ -1,11 +1,11 @@
 # PM2.5 Air Quality Prediction
 
-This repository contains Jupyter notebooks for predicting PM2.5 air
-pollution levels using machine learning techniques.
+This repository contains Jupyter notebooks for predicting PM2.5 air pollution
+levels using machine learning techniques.
 
 ## Available Notebooks
-- `pm25_1hour_prediction.ipynb` – Short-term (1 hour ahead) PM2.5 prediction
-- `pm25_24hour_prediction.ipynb` – 24 hour PM2.5 prediction
+- `pm25_1hour_prediction.ipynb` – Short-term (1 hour ahead) PM2.5 prediction  
+- `pm25_24hour_prediction.ipynb` – 24-hour PM2.5 prediction  
 
 ## Project Objective
 To analyze historical air quality data and forecast PM2.5 concentrations
@@ -23,6 +23,6 @@ The complete dataset was used during model development.
 - Scikit-learn
 - Matplotlib
 
-The project demonstrates short-term and day-ahead PM2.5 forecasting using historical air quality data.
-
-
+## Key Highlight
+The project demonstrates short-term and day-ahead PM2.5 forecasting using
+historical air quality data in a clean, reproducible workflow.
