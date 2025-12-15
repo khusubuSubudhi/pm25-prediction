@@ -19,3 +19,5 @@ for short-term air quality monitoring and planning.
 - Scikit-learn
 - Matplotlib
 
+The project demonstrates short-term and day-ahead PM2.5 forecasting using historical air quality data.
+
